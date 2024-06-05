@@ -1,0 +1,30 @@
+.barraLogout
+{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: lightgray;
+    border-bottom: 2px solid black;
+}
+
+button
+{
+    background-color: #ff9a00;
+    color: white;
+    border-radius: 20%;
+}
+
+button:hover
+{
+    padding: 5px;
+}
+
+#linkLogout
+{
+    text-decoration: none;
+    color: white;
+    font-family: Helvetica;
+}
+

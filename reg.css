@@ -1,0 +1,32 @@
+
+section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box_registrazione
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 500px;
+    background-color: #340000;
+    border: 5px solid orange;
+    border-radius: 5%;
+    color:white;
+}
+
+.errore
+{
+    color: red;
+    font-family: Helvetica;
+    font-weight: bolder;
+}
+
+.hidden
+{
+    display: none;
+}
